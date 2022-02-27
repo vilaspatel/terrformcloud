@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg1" {
-    name = "tcloud"
+    name = "dcloud"
     location = "EastUS"
 }
